@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yusuf Muhammed💻🧑‍💻🦸‍♂️</h1>
-<img src="https://github.com/myussycoder/myussycoder/blob/main/github%20banner.png">
-<h3 align="center">A passionate software engineer</h3>
+<img src="https://github.com/myussycoder/myussycoder/blob/main/githubbanner.png">
+<p align="center">As a software engineer specializing in the MERN stack, I create cutting-edge web applications that push boundaries. With expertise in JavaScript, React, and Node.js, I have developed and deployed high-performance solutions, including an e-commerce platform handling over 1,000 concurrent users.
+
+I thrive in collaborative environments, leveraging my strong communication skills to bridge technical complexities and user needs. Continuously adapting to new technologies, I stay at the forefront of web development trends.</p>
+
+
+## Find me around the Web
 
 - 🔭 I’m currently working on **Ecommerce**
 
