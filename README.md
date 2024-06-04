@@ -1,5 +1,5 @@
+<h1 align="center">Hi 👋, I'm Yusuf Muhammed💻🧑‍💻🦸‍♂️</h1>
 <img src="https://github.com/myussycoder/myussycoder/blob/main/github%20banner.png">
-<h1 align="center">Hi 👋, I'm Yusuf Muhammed</h1>
 <h3 align="center">A passionate software engineer</h3>
 
 - 🔭 I’m currently working on **Ecommerce**
@@ -24,8 +24,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=myussycoder&" alt="myussycoder" /></p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myussycoder)](https://github.com/anuraghazra/github-readme-stats)
-
-## CodeWars
-
 ![Codewars](https://github.r2v.ch/codewars?user=myussycoder&stroke=orange)
+
+#projects
