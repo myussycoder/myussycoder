@@ -1,3 +1,4 @@
+<img src="https://github.com/myussycoder/myussycoder/blob/main/github%20banner.png">
 <h1 align="center">Hi 👋, I'm Yusuf Muhammed</h1>
 <h3 align="center">A passionate software engineer</h3>
 
