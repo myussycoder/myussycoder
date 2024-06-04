@@ -6,5 +6,5 @@ I thrive in collaborative environments, leveraging my strong communication skill
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myussycoder)](https://github.com/anuraghazra/github-readme-stats)
 
 ## CodeWars
-stroke={orange}
-![Codewars](https://github.r2v.ch/codewars?user=myussycoder&stroke=COLOR)
+
+![Codewars](https://github.r2v.ch/codewars?user=myussycoder&stroke=orange)
