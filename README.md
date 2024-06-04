@@ -5,6 +5,6 @@ As a creative and detail-oriented software engineer with a deep interest in buil
 I thrive in collaborative environments, leveraging my strong communication skills to bridge technical complexities and user needs. Continuously adapting to new technologies, I stay at the forefront of web development trends.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myussycoder)](https://github.com/anuraghazra/github-readme-stats)
 
-##CodeWars
-##
+## CodeWars
+stroke={orange}
 ![Codewars](https://github.r2v.ch/codewars?user=myussycoder&stroke=COLOR)
